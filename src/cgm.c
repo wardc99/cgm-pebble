@@ -153,7 +153,7 @@ static const uint8_t const PHONEOUT_VIBE = 3;
 // Icon Cross Out & Vibrate Once Wait Times, in Minutes
 // RANGE 0-240
 // IF YOU WANT TO WAIT LONGER TO GET CONDITION, INCREASE NUMBER
-static const uint8_t const CGMOUT_WAIT_MIN = 10;
+static const uint8_t const CGMOUT_WAIT_MIN = 15;
 static const uint8_t const PHONEOUT_WAIT_MIN = 5;
 
 // Control Messages
