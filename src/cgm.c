@@ -105,7 +105,7 @@ static const uint8_t const SPECVALUE_BG_MGDL = 20;
 static const uint8_t const HYPOLOW_BG_MGDL = 55;
 static const uint8_t const BIGLOW_BG_MGDL = 60;
 static const uint8_t const MIDLOW_BG_MGDL = 70;
-static const uint8_t const LOW_BG_MGDL = 80;
+static const uint8_t const LOW_BG_MGDL = 90;
 
 static const uint16_t const HIGH_BG_MGDL = 180;
 static const uint16_t const MIDHIGH_BG_MGDL = 240;
@@ -120,7 +120,7 @@ static const uint8_t const SPECVALUE_BG_MMOL = 11;
 static const uint8_t const HYPOLOW_BG_MMOL = 30;
 static const uint8_t const BIGLOW_BG_MMOL = 33;
 static const uint8_t const MIDLOW_BG_MMOL = 39;
-static const uint8_t const LOW_BG_MMOL = 44;
+static const uint8_t const LOW_BG_MMOL = 50;
 
 static const uint16_t const HIGH_BG_MMOL = 100;
 static const uint16_t const MIDHIGH_BG_MMOL = 133;
