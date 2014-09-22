@@ -473,7 +473,7 @@ static void draw_date_from_app() {
   size_t draw_return = 0;
 
   if (strcmp(time_watch_text, "00:00") == 0) {
-    draw_return = strftime(time_watch_text, sizeof(time_watch_text), "%l:%M", current_d_app);
+    draw_return = strftime(time_watch_text, sizeof(time_watch_text), "%H:%M", current_d_app);
 	if (draw_return != 0) {
       text_layer_set_text(time_watch_layer, time_watch_text);
 	}
